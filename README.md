@@ -1,9 +1,9 @@
 # The Orbital Event Ontology (OEO)
 An ontology about events in orbit around a celestial body.
 
+## Description
 The Orbital Event Ontology (OEO), by [Robert J. Rovetto](https://github.com/rrovetto), is a computational ontology and conceptual model for events occuring in outerspace, specifical in orbital space environments, i.e., in orbit about celestial bodis such as planets. With collected datasets, it provides a knowledge graph. If you find value in my work, please [donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/). To hire me or for an ontology consultation, please [schedule a meeting at this link](https://tinyurl.com/yas7trzy)
 
-## Description
 _See also the Ontology Requirements Specification Document (purchase link coming soon)._
 
 ### Scope
