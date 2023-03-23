@@ -7,9 +7,9 @@ The Orbital Event Ontology (OEO), by [Robert J. Rovetto](https://github.com/rrov
 _See also the Ontology Requirements Specification Document (purchase link coming soon)._
 
 ### Scope
-OEO represents events or occurrences in orbit, such as orbital collisions between an active [spacecraft]() and an [orbital debris object](https://github.com/rrovetto/The-Orbital-Debris-Ontology/blob/master/README.md) in Earth orbit. Relevant information about the event are included, such as: the parties or participants to the event, their details, the time of occurrence, the temporal duration, the source of data for the information, etc. Given the overlap with other space-related topics, content in ODO may be part of other models by the author and thereby part of the overall set of ontologies under construction. 
+OEO represents events or occurrences in orbit, such as orbital collisions between an active [spacecraft](https://github.com/rrovetto/The-Spacecraft-Ontology) and an [orbital debris object](https://github.com/rrovetto/The-Orbital-Debris-Ontology/blob/master/README.md) in Earth orbit. Relevant information about the event are included, such as: the parties or participants to the event, their details, the time of occurrence, the temporal duration, the source of data for the information, etc. Given the overlap with other space-related topics, content in ODO may be part of other models by the author and thereby part of the overall set of ontologies under construction. 
 
-### ### Architecture
+### Architecture
 A self-contained module, usable by itself, but also part of the author's wider [space domain knowledge modeling](https://purl.org/space-ontology) suite of ontologies and other knowledge organization systems.
 
 ### Purpose & Value
